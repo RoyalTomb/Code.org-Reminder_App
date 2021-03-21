@@ -27,3 +27,4 @@ function updateScreen() {
     setProperty("reminderOutput", "text", textList[index]);
   }
 }
+
